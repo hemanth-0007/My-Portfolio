@@ -1,0 +1,17 @@
+.icon{
+    font-size: 1.5rem;
+    height: 3rem;
+    width: 3rem;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+ .list-tools-container{
+    list-style-type: none;
+}
+.list-container{
+    list-style-type: none;
+}
