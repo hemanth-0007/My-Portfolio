@@ -85,6 +85,7 @@ const WorkPage = () => {
             <Card key={d.id} data={d} />
           ))}
         </Main>
+        {/* <p>swipe/scroll down to view the projects</p> */}
         <Rotate ref={yinyang}>
           <YinYang width={80} height={80} fill={DarkTheme.text} />
         </Rotate>

@@ -10,14 +10,25 @@ export const Work = [
         demo:"https://github.com/hemanth-0007/ConferencePartTwo",
         github:"https://github.com/hemanth-0007/ConferencePartTwo"
     },
+    // {
+    //     id:2,
+    //     name:"Chat Application",
+    //     description:"A real-time chat application build using ReactJS, NodeJS, ExpressJS and Socket.io. With authentication and chat functionalities.",
+    //     tags:["React","Node Js","Express Js","Socket.io"],
+        
+    //     demo:"",
+    //     github:""
+        
+    // },
     {
         id:2,
-        name:"Chat Application",
-        description:"A real-time chat application build using ReactJS, NodeJS, ExpressJS and Socket.io. With authentication and chat functionalities.",
+        name:"Event Manager",
+        description:` Developed a tool to streamline the process of facility requests, including venue reservations and bus services. 
+        The tool significantly reduced the time and effort required for approvals by minimizing manual interventions.`,
         tags:["React","Node Js","Express Js","Socket.io"],
         
-        demo:"",
-        github:""
+        demo:"https://github.com/hemanth-0007/Nitc-Event-Manager",
+        github:"https://github.com/hemanth-0007/Nitc-Event-Manager"
         
     },
     {

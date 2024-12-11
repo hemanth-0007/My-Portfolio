@@ -55,6 +55,7 @@ const Main = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  overflow: auto;
 
   &:hover {
     color: ${(props) => props.theme.body};
@@ -96,6 +97,10 @@ const Description = styled.div`
     margin-left: 2rem;
   }
 `;
+
+
+ 
+
 
 const Icon = styled.div`
     margin-right: 1rem;
